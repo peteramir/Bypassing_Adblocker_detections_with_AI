@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Anti-Adblock JS Forensic Collector",
+  "version": "1.0.0",
+  "description": "Collects JavaScript and DOM evidence from the current page into a local ZIP for offline analysis. Collector only: it does not bypass or modify anything.",
+  "minimum_chrome_version": "116",
+  "action": {
+    "default_title": "Anti-Adblock JS Forensic Collector",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "scripting",
+    "storage",
+    "webRequest",
+    "debugger"
+  ],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ]
+}

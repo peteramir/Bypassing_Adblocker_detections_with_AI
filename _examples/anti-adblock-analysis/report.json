@@ -1,0 +1,452 @@
+{
+  "tool": {
+    "name": "Anti-Adblock JS Forensic Collector",
+    "version": "1.0.0",
+    "mode": "reload-and-capture",
+    "deepCapture": true,
+    "captureHook": true
+  },
+  "domain": "www.fcportables.com",
+  "pageUrl": "https://www.fcportables.com/snap-video-translator-portable/",
+  "pageUrlWasRedacted": false,
+  "title": "Portable Snap Video Translator 1.2.1 (Models Included) - FC Portables",
+  "collectedAt": "2026-11-13T13:10:18.779Z",
+  "durationMs": 46461,
+  "browser": {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36",
+    "brands": [
+      {
+        "brand": "Not-A.Brand",
+        "version": "99"
+      },
+      {
+        "brand": "Brave",
+        "version": "157"
+      },
+      {
+        "brand": "Chromium",
+        "version": "157"
+      }
+    ],
+    "isBrave": true,
+    "platform": "Win32",
+    "language": "en"
+  },
+  "counts": {
+    "discoveredResources": 34,
+    "downloaded": 25,
+    "failed": 0,
+    "skippedNotJavaScriptOrNotReplayed": 9,
+    "firstPartyResources": 21,
+    "thirdPartyResources": 13,
+    "externalScriptElements": 17,
+    "inlineScripts": {
+      "executable": 13,
+      "module": 1,
+      "json": 6,
+      "importmap": 0,
+      "otherData": 0
+    },
+    "dynamicInlineScriptsObservedOnly": 4,
+    "runtimeGeneratedScriptsCaptured": 17,
+    "runtimeGeneratedScriptsSeen": 21,
+    "framesInspected": 6,
+    "serviceWorkerScripts": 0,
+    "dedicatedWorkerScripts": 0,
+    "sharedWorkerScripts": 0,
+    "webRequestRecordsForTab": 17
+  },
+  "workers": {
+    "dedicated": [],
+    "shared": [],
+    "serviceWorkerRegistrations": [],
+    "serviceWorkerRegisterCalls": [],
+    "debuggerTargets": [],
+    "note": "Empty lists can mean \"none exist\" OR \"not observable in this mode\"; see limitations."
+  },
+  "iframes": [
+    {
+      "frameId": 0,
+      "url": "https://www.fcportables.com/snap-video-translator-portable/",
+      "isTop": true,
+      "declaredIframes": 5
+    },
+    {
+      "frameId": 64,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "declaredIframes": 0
+    },
+    {
+      "frameId": 65,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "declaredIframes": 0
+    },
+    {
+      "frameId": 66,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "declaredIframes": 0
+    },
+    {
+      "frameId": 67,
+      "url": "about:blank",
+      "isTop": false,
+      "declaredIframes": 0
+    },
+    {
+      "frameId": 68,
+      "url": "about:blank",
+      "isTop": false,
+      "declaredIframes": 0
+    }
+  ],
+  "domEvidence": [
+    {
+      "frameId": 0,
+      "url": "https://www.fcportables.com/snap-video-translator-portable/",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "17651px",
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": "--publisher-menu-height: 42px; overflow: hidden !important;",
+            "tag": "html"
+          },
+          {
+            "classes": [
+              "wp-singular",
+              "post-template-default",
+              "single",
+              "single-post",
+              "postid-39101",
+              "single-format-standard",
+              "wp-theme-publisher",
+              "wp-child-theme-publisher-child",
+              "bs-theme",
+              "bs-publisher",
+              "bs-publisher-crypto-news",
+              "ltr",
+              "close-rh",
+              "page-layout-2-col",
+              "page-layout-2-col-right",
+              "boxed",
+              "active-sticky-sidebar",
+              "main-menu-out-full-width",
+              "single-prim-cat-13",
+              "single-cat-13",
+              "bs-ll-d"
+            ],
+            "filter": "none",
+            "height": "17651px",
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": "overflow: hidden !important;",
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [
+        {
+          "classes": [
+            "cak5m6gh"
+          ],
+          "id": "cak5m6gk",
+          "path": "c32e-cfc70#cak5m6gk",
+          "position": "static",
+          "tag": "c32e-cfc70",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4) > div:nth-child(2) > p:nth-child(28)",
+          "position": "static",
+          "tag": "p",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4) > div:nth-child(2)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "clearfix",
+            "single-post-content"
+          ],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "post-39101",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "category-video-software",
+            "tag-ai-software",
+            "single-post-content"
+          ],
+          "id": "post-39101",
+          "path": "article#post-39101",
+          "position": "static",
+          "tag": "article",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "single-container"
+          ],
+          "id": null,
+          "path": "main#content > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "col-sm-8",
+            "content-column"
+          ],
+          "id": null,
+          "path": "main#content > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+          "position": "relative",
+          "tag": "div",
+          "zIndex": "auto"
+        }
+      ]
+    },
+    {
+      "frameId": 64,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": []
+    },
+    {
+      "frameId": 65,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": []
+    },
+    {
+      "frameId": 66,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": []
+    },
+    {
+      "frameId": 67,
+      "url": "about:blank",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "auto",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "auto",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": []
+    },
+    {
+      "frameId": 68,
+      "url": "about:blank",
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidenceElements": 0,
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": []
+    }
+  ],
+  "network": {
+    "monitorSawNavigation": true,
+    "requestsRecorded": 17,
+    "requestsWithErrors": [],
+    "debuggerRequestsRecorded": 79
+  },
+  "failedResourceIds": [],
+  "limitations": [
+    "Response bodies are re-requested by the extension (GET only, no cookies for cross-origin URLs) unless Deep capture + Reload recorded the original bytes. A re-request can differ from what the page originally received (personalised, rotating or expiring scripts, A/B variants).",
+    "Request status/initiator/error data exists only for requests the background monitor saw. Requests made before the extension was installed/enabled, before the service worker started observing this tab, or that were evicted from the 3000-entry per-tab log are not recoverable; Resource Timing (first ~250 entries by default) only partially compensates.",
+    "webRequest reports the initiating ORIGIN, not the initiating script. Which script loaded which script is only available in Deep capture (debugger initiator stacks).",
+    "Inline scripts that removed themselves from the DOM, eval()/new Function() code, and dynamic import() graphs are only observable with Reload & Capture (inline scripts) or Deep capture (all runtime-parsed code).",
+    "Dedicated/shared worker scripts are only identified via Reload & Capture hook, Deep capture, or webRequest records; code inside workers (including importScripts) is only captured with Deep capture.",
+    "Blob: URLs are only readable while still alive in a frame whose origin matches; revoked blobs cannot be recovered.",
+    "Frames that cannot be injected (sandboxed, about:blank/srcdoc, error pages, closed shadow roots) are not inspected. Open shadow roots are captured as HTML only.",
+    "Deep capture covers the main frame, same-process iframes and workers attached via auto-attach; coverage of out-of-process cross-origin iframes depends on the browser version. The debugger infobar and DevTools-like state may change how a page behaves.",
+    "The page is observed with the extension present. A site may behave differently when it detects extensions, hooks or a debugger.",
+    "First/third-party classification uses a heuristic registrable-domain rule (no public-suffix list).",
+    "Sensitive-looking URL query values, fragments and credentials are redacted in exported metadata; input values, textareas, CSRF/token meta tags and nonces are redacted in HTML snapshots. Inline scripts and downloaded files are stored as-is and may still contain page-specific identifiers."
+  ],
+  "errors": [],
+  "howToUse": "Start with report.json, then metadata/resources.json and dom/dom-report.json. Files under javascript/ are exact bytes (see sha256). Entries in network/failed-resources.json were discovered but NOT retrieved; do not assume their content. The anti-adblock mechanism may live in any file: analyse semantically, do not rely on filenames."
+}

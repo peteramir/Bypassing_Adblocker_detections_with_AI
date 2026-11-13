@@ -1,0 +1,3140 @@
+{
+  "note": "Request headers, cookies and bodies are never recorded. \"initiatorOrigin\" is an origin, not a script.",
+  "monitor": {
+    "sawNavigationOfThisPage": true,
+    "monitorStartedAtEpochMs": 1794575372617.568
+  },
+  "webRequest": [
+    {
+      "url": "https://www.fcportables.com/snap-video-translator-portable/",
+      "method": "GET",
+      "type": "main_frame",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "contentLength": null,
+      "contentEncoding": "zstd",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575372618,
+      "endedAtEpochMs": 1794575374577,
+      "durationMs": 1959,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575374599,
+      "endedAtEpochMs": 1794575376492,
+      "durationMs": 1893,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575374599,
+      "endedAtEpochMs": 1794575375743,
+      "durationMs": 1144,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575374600,
+      "endedAtEpochMs": 1794575377218,
+      "durationMs": 2618,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "zstd",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575375611,
+      "endedAtEpochMs": 1794575376011,
+      "durationMs": 400,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575376013,
+      "endedAtEpochMs": 1794575377223,
+      "durationMs": 1210,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575376507,
+      "endedAtEpochMs": 1794575377272,
+      "durationMs": 765,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575377224,
+      "endedAtEpochMs": 1794575378109,
+      "durationMs": 885,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575377298,
+      "endedAtEpochMs": 1794575381250,
+      "durationMs": 3952,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575377299,
+      "endedAtEpochMs": 1794575378224,
+      "durationMs": 925,
+      "party": "first-party"
+    },
+    {
+      "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "contentLength": null,
+      "contentEncoding": "gzip",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575377300,
+      "endedAtEpochMs": 1794575378893,
+      "durationMs": 1593,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "contentLength": null,
+      "contentEncoding": "br",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575381349,
+      "endedAtEpochMs": 1794575385251,
+      "durationMs": 3902,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.gstatic.com/generate_204",
+      "method": "GET",
+      "type": "xmlhttprequest",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 204,
+      "contentType": null,
+      "contentLength": 0,
+      "contentEncoding": null,
+      "fromCache": false,
+      "serverIp": "142.251.152.120",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575381364,
+      "endedAtEpochMs": 1794575381420,
+      "durationMs": 56,
+      "party": "third-party"
+    },
+    {
+      "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+      "method": "GET",
+      "type": "script",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "contentLength": null,
+      "contentEncoding": "zstd",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59e02e31f0f6d88",
+      "finalUrl": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59e02e31f0f6d88",
+      "error": null,
+      "startedAtEpochMs": 1794575381370,
+      "endedAtEpochMs": 1794575389201,
+      "durationMs": 7831,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+      "method": "POST",
+      "type": "xmlhttprequest",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "text/html; charset=UTF-8",
+      "contentLength": null,
+      "contentEncoding": "zstd",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575381405,
+      "endedAtEpochMs": 1794575382944,
+      "durationMs": 1539,
+      "party": "first-party"
+    },
+    {
+      "url": "https://z9snqc.fcportables.com/i/c9396caf/ca360afef1",
+      "method": "POST",
+      "type": "xmlhttprequest",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "application/json",
+      "contentLength": null,
+      "contentEncoding": "gzip",
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575386366,
+      "endedAtEpochMs": 1794575386815,
+      "durationMs": 449,
+      "party": "first-party"
+    },
+    {
+      "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+      "method": "POST",
+      "type": "xmlhttprequest",
+      "frameId": 0,
+      "initiatorOrigin": "https://www.fcportables.com",
+      "requestWithoutTab": false,
+      "httpStatus": 200,
+      "contentType": "text/plain; charset=UTF-8",
+      "contentLength": 0,
+      "contentEncoding": null,
+      "fromCache": false,
+      "serverIp": "104.21.84.50",
+      "redirectedTo": null,
+      "finalUrl": null,
+      "error": null,
+      "startedAtEpochMs": 1794575389320,
+      "endedAtEpochMs": 1794575390097,
+      "durationMs": 777,
+      "party": "first-party"
+    }
+  ],
+  "webRequestWithoutTabMatchedToPageOrigins": [],
+  "resourceTiming": [
+    {
+      "frameId": 0,
+      "url": "https://www.fcportables.com/snap-video-translator-portable/",
+      "entries": [
+        {
+          "decodedBodySize": 1373,
+          "duration": 387,
+          "encodedBodySize": 478,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1949,
+          "transferSize": 778
+        },
+        {
+          "decodedBodySize": 4633,
+          "duration": 399,
+          "encodedBodySize": 940,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1949,
+          "transferSize": 1240
+        },
+        {
+          "decodedBodySize": 104159,
+          "duration": 1467,
+          "encodedBodySize": 18655,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/css/theme-libs.min.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 18955
+        },
+        {
+          "decodedBodySize": 31169,
+          "duration": 575,
+          "encodedBodySize": 7221,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 7521
+        },
+        {
+          "decodedBodySize": 569105,
+          "duration": 1745,
+          "encodedBodySize": 79281,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/style-7.11.0.min.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 79581
+        },
+        {
+          "decodedBodySize": 27640,
+          "duration": 270,
+          "encodedBodySize": 2015,
+          "initiatorType": "link",
+          "name": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+          "nextHopProtocol": "h3",
+          "responseStatus": 0,
+          "startTime": 1950,
+          "transferSize": 2315
+        },
+        {
+          "decodedBodySize": 341,
+          "duration": 761,
+          "encodedBodySize": 223,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher-child/style.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 523
+        },
+        {
+          "decodedBodySize": 25563,
+          "duration": 580,
+          "encodedBodySize": 5796,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/styles/crypto-news/style.min.css?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 6096
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 4331,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+          "nextHopProtocol": "",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 13577,
+          "duration": 1180,
+          "encodedBodySize": 5119,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 5419
+        },
+        {
+          "decodedBodySize": 87553,
+          "duration": 1929,
+          "encodedBodySize": 32163,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 32463
+        },
+        {
+          "decodedBodySize": 538349,
+          "duration": 2655,
+          "encodedBodySize": 179496,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 179796
+        },
+        {
+          "decodedBodySize": 42995,
+          "duration": 819,
+          "encodedBodySize": 6209,
+          "initiatorType": "link",
+          "name": "https://www.fcportables.com/wp-content/bs-booster-cache/6075934ca1fe8ad9d4b468946215279a.css",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 1950,
+          "transferSize": 6509
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2736,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+          "nextHopProtocol": "",
+          "responseStatus": 200,
+          "startTime": 1951,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 336,
+          "duration": 1297,
+          "encodedBodySize": 209,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2102,
+          "transferSize": 509
+        },
+        {
+          "decodedBodySize": 11080,
+          "duration": 2508,
+          "encodedBodySize": 3776,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2102,
+          "transferSize": 4076
+        },
+        {
+          "decodedBodySize": 44235,
+          "duration": 2557,
+          "encodedBodySize": 11325,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2102,
+          "transferSize": 11625
+        },
+        {
+          "decodedBodySize": 2484,
+          "duration": 3395,
+          "encodedBodySize": 1213,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2102,
+          "transferSize": 1513
+        },
+        {
+          "decodedBodySize": 131439,
+          "duration": 6535,
+          "encodedBodySize": 43472,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2102,
+          "transferSize": 43772
+        },
+        {
+          "decodedBodySize": 42933,
+          "duration": 3510,
+          "encodedBodySize": 13561,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 2103,
+          "transferSize": 13861
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 2178,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 4675,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 4694,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 22752,
+          "duration": 3903,
+          "encodedBodySize": 5591,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 8735,
+          "transferSize": 5891
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 57,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.gstatic.com/generate_204",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8751,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://z9snqc.fcportables.com/r/f70f25ab/uo79c95b19.js?_=1794575381362",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 5570,
+          "encodedBodySize": 0,
+          "initiatorType": "link",
+          "name": "https://z9snqc.fcportables.com/r/32ecfc70/ec466f09.css?_=1794575381363",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://pagead2.googlesyndication.com/pagead/show_ads.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.googletagservices.com/tag/js/gpt.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 3,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://s.amazon-adsystem.com/aax2/apstag.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8752,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.googleadservices.com/pagead/conversion_async.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://z9snqc.fcportables.com/r/ads/ti39fdacc1c6.js?_=1794575381364",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://z9snqc.fcportables.com/r/pagead/srcfc06f3e8f.js?_=1794575381364",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "script",
+          "name": "https://z9snqc.fcportables.com/r/adframe/mv9a5904efcf.js?_=1794575381365",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 2,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+          "nextHopProtocol": "",
+          "responseStatus": 200,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 3,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.googletagservices.com/tag/js/gpt.js",
+          "nextHopProtocol": "",
+          "responseStatus": 200,
+          "startTime": 8753,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 100,
+          "duration": 1539,
+          "encodedBodySize": 100,
+          "initiatorType": "xmlhttprequest",
+          "name": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 8792,
+          "transferSize": 400
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.googleadservices.com/pagead/conversion_async.js",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 8903,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 9694,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 1,
+          "encodedBodySize": 0,
+          "initiatorType": "fetch",
+          "name": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+          "nextHopProtocol": "",
+          "responseStatus": 0,
+          "startTime": 9695,
+          "transferSize": 0
+        },
+        {
+          "decodedBodySize": 14006,
+          "duration": 1630,
+          "encodedBodySize": 14006,
+          "initiatorType": "other",
+          "name": "https://www.fcportables.com/wp-content/uploads/favicon.webp",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 37976,
+          "transferSize": 14306
+        },
+        {
+          "decodedBodySize": 14006,
+          "duration": 2,
+          "encodedBodySize": 14006,
+          "initiatorType": "other",
+          "name": "https://www.fcportables.com/wp-content/uploads/favicon.webp",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 39608,
+          "transferSize": 0
+        }
+      ]
+    },
+    {
+      "frameId": 64,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "entries": []
+    },
+    {
+      "frameId": 65,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "entries": []
+    },
+    {
+      "frameId": 66,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "entries": []
+    },
+    {
+      "frameId": 67,
+      "url": "about:blank",
+      "entries": []
+    },
+    {
+      "frameId": 68,
+      "url": "about:blank",
+      "entries": [
+        {
+          "decodedBodySize": 41135,
+          "duration": 7834,
+          "encodedBodySize": 16226,
+          "initiatorType": "script",
+          "name": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 107,
+          "transferSize": 16526
+        },
+        {
+          "decodedBodySize": 0,
+          "duration": 778,
+          "encodedBodySize": 0,
+          "initiatorType": "xmlhttprequest",
+          "name": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+          "nextHopProtocol": "h3",
+          "responseStatus": 200,
+          "startTime": 8057,
+          "transferSize": 300
+        }
+      ]
+    }
+  ],
+  "debugger": {
+    "requests": [
+      {
+        "sid": "main",
+        "requestId": "B4E7AB8B41CDEBE667F84618E0C0DD26",
+        "url": "https://www.fcportables.com/snap-video-translator-portable/",
+        "method": "GET",
+        "type": "Document",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "other",
+          "url": null,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/html",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/html",
+          "content-encoding": "zstd"
+        },
+        "finished": true,
+        "encodedDataLength": 62928,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.204",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/slick.min.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 92,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 947,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.205",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 93,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 1408,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.206",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/css/theme-libs.min.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 94,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 19134,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.207",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 95,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 7691,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.208",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/style-7.11.0.min.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 96,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 79781,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.209",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher-child/style.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 97,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "zstd"
+        },
+        "finished": true,
+        "encodedDataLength": 698,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.210",
+        "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 98,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "192.178.203.95",
+        "headers": {
+          "content-type": "text/css; charset=utf-8",
+          "content-encoding": "gzip"
+        },
+        "finished": true,
+        "encodedDataLength": 2044,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.211",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/styles/crypto-news/style.min.css?ver=1794413264",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 99,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 6261,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.212",
+        "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 100,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript; charset=utf-8",
+          "content-encoding": "gzip"
+        },
+        "finished": true,
+        "encodedDataLength": 42039,
+        "bodyCaptured": 105834,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.213",
+        "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 101,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 32645,
+        "bodyCaptured": 87553,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.214",
+        "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 102,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 5585,
+        "bodyCaptured": 13577,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.215",
+        "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 103,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 180101,
+        "bodyCaptured": 538349,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.216",
+        "url": "https://www.fcportables.com/wp-content/bs-booster-cache/6075934ca1fe8ad9d4b468946215279a.css",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 158,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "text/css",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/css",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 6683,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.217",
+        "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 220,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 4217,
+        "bodyCaptured": 4217,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.218",
+        "url": "https://www.fcportables.com/wp-content/uploads/fcportables-logo.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 244,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "5782"
+        },
+        "finished": true,
+        "encodedDataLength": 6281,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.221",
+        "url": "https://www.fcportables.com/wp-content/uploads/snap_video_translator_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 377,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "30462"
+        },
+        "finished": true,
+        "encodedDataLength": 30960,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.234",
+        "url": "https://www.fcportables.com/wp-content/uploads/donate-fcportables-350x175.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 786,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "10794"
+        },
+        "finished": true,
+        "encodedDataLength": 11290,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.235",
+        "url": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 988,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "zstd"
+        },
+        "finished": true,
+        "encodedDataLength": 689,
+        "bodyCaptured": 336,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.236",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 993,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 4244,
+        "bodyCaptured": 11080,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.237",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 994,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 11801,
+        "bodyCaptured": 44235,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.238",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 995,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 1683,
+        "bodyCaptured": 2484,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.239",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 996,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 43953,
+        "bodyCaptured": 131439,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.240",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1002,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 14035,
+        "bodyCaptured": 42933,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.241",
+        "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1134,
+          "stack": []
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.299",
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+        "method": "POST",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "rd",
+              "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+              "line": 397,
+              "col": 361
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.302",
+        "url": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+        "method": "POST",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "rd",
+              "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+              "line": 397,
+              "col": 361
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.266",
+        "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+        "method": "GET",
+        "type": "Font",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+          "stack": []
+        },
+        "status": 200,
+        "mime": "font/woff2",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "142.251.208.227",
+        "headers": {
+          "content-type": "font/woff2",
+          "content-length": "43136"
+        },
+        "finished": true,
+        "encodedDataLength": 43168,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.246",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/fontawesome-webfont.woff2?v=4.7.0",
+        "method": "GET",
+        "type": "Font",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/font-awesome.min.css?ver=1794413264",
+          "stack": []
+        },
+        "status": 200,
+        "mime": "font/woff2",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "font/woff2",
+          "content-length": "77160"
+        },
+        "finished": true,
+        "encodedDataLength": 77746,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.291",
+        "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+        "method": "GET",
+        "type": "Font",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+          "stack": []
+        },
+        "status": 200,
+        "mime": "font/woff2",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "142.251.208.227",
+        "headers": {
+          "content-type": "font/woff2",
+          "content-length": "51412"
+        },
+        "finished": true,
+        "encodedDataLength": 51446,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.244",
+        "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/fonts/bs-icons.woff",
+        "method": "GET",
+        "type": "Font",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/css/bs-icons.css?ver=1794413264",
+          "stack": []
+        },
+        "status": 200,
+        "mime": "font/woff",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "font/woff",
+          "content-length": "13852"
+        },
+        "finished": true,
+        "encodedDataLength": 14385,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.314",
+        "url": "blob:https://www.fcportables.com/03141e94-fdff-4171-826f-bfe891c02031",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/svg+xml",
+        "protocol": "blob",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.315",
+        "url": "data:image/png;base64,[data: 1266 chars]",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/style-7.11.0.min.css?ver=1794413264",
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/png",
+        "protocol": "data",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.316",
+        "url": "https://fcportables.com/wp-content/uploads/fast-video-cutter-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "redirects": [
+          "https://www.fcportables.com/wp-content/uploads/fast-video-cutter-portable.webp"
+        ],
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "18434"
+        },
+        "finished": true,
+        "encodedDataLength": 18960
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.317",
+        "url": "https://www.fcportables.com/wp-content/uploads/pazu-streamget-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "15558"
+        },
+        "finished": true,
+        "encodedDataLength": 16074,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.318",
+        "url": "https://www.fcportables.com/wp-content/uploads/4k_video_downloader_plus_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "18240"
+        },
+        "finished": true,
+        "encodedDataLength": 18754,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.319",
+        "url": "https://www.fcportables.com/wp-content/uploads/pte_video_optimiser_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "37652"
+        },
+        "finished": true,
+        "encodedDataLength": 38259,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.320",
+        "url": "https://www.fcportables.com/wp-content/uploads/massstube_ultra_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "20526"
+        },
+        "finished": true,
+        "encodedDataLength": 21034,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.321",
+        "url": "https://www.fcportables.com/wp-content/uploads/let_it_be_light_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "24192"
+        },
+        "finished": true,
+        "encodedDataLength": 24732,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.322",
+        "url": "https://www.fcportables.com/wp-content/uploads/hwinfo-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "32062"
+        },
+        "finished": true,
+        "encodedDataLength": 32621,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.323",
+        "url": "https://www.fcportables.com/wp-content/uploads/Breaking-News.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "25278"
+        },
+        "finished": true,
+        "encodedDataLength": 25835,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.324",
+        "url": "https://www.fcportables.com/wp-content/uploads/davinci-resolve-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "17556"
+        },
+        "finished": true,
+        "encodedDataLength": 18077,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.325",
+        "url": "https://fcportables.com/wp-content/uploads/macrium-reflect-x-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "redirects": [
+          "https://www.fcportables.com/wp-content/uploads/macrium-reflect-x-portable.webp"
+        ],
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "6984"
+        },
+        "finished": true,
+        "encodedDataLength": 7484
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.326",
+        "url": "https://www.fcportables.com/wp-content/uploads/syestemrescue_live_boot.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "20796"
+        },
+        "finished": true,
+        "encodedDataLength": 21318,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.327",
+        "url": "https://www.fcportables.com/wp-content/uploads/strelec_boot.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "16428"
+        },
+        "finished": true,
+        "encodedDataLength": 16977,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.328",
+        "url": "https://www.fcportables.com/wp-content/uploads/topaz-photo-portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 911,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "21854"
+        },
+        "finished": true,
+        "encodedDataLength": 22395,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "0AF2A3DA0657E290D379A24B7E385B95",
+        "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "method": "GET",
+        "type": "Document",
+        "frameId": "939C97BB0996B3F239861B3A70CB8B90",
+        "documentURL": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "setupAd",
+              "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+              "line": 42,
+              "col": 34
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/html",
+        "protocol": "data",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "",
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 85,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "00A9C9E6EB880FFEE6DCE87AD16BB257",
+        "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "method": "GET",
+        "type": "Document",
+        "frameId": "53D6A1C5D6C3B4AC2E86EE65BF9B859C",
+        "documentURL": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "setupAd",
+              "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+              "line": 42,
+              "col": 34
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/html",
+        "protocol": "data",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "",
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 85,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "C4D8027BF42F46AB0E53D3A78F0DF758",
+        "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "method": "GET",
+        "type": "Document",
+        "frameId": "3D874D5CC6574E6E891FB2AA6490314B",
+        "documentURL": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "setupAd",
+              "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+              "line": 42,
+              "col": 34
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/html",
+        "protocol": "data",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "",
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 85,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.336",
+        "url": "blob:https://www.fcportables.com/acb39f0a-8eb5-4943-90f9-e5e2cc4c93ef",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 995,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/svg+xml",
+        "protocol": "blob",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.341",
+        "url": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript",
+          "content-encoding": "br"
+        },
+        "finished": true,
+        "encodedDataLength": 6074,
+        "bodyCaptured": 22752,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.342",
+        "url": "https://www.gstatic.com/generate_204",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 56692
+            }
+          ]
+        },
+        "status": 204,
+        "mime": "",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "142.251.152.120",
+        "headers": {
+          "content-length": "0"
+        },
+        "finished": true,
+        "encodedDataLength": 10,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.343",
+        "url": "https://z9snqc.fcportables.com/r/f70f25ab/uo79c95b19.js?_=1794575381362",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.344",
+        "url": "https://z9snqc.fcportables.com/r/32ecfc70/ec466f09.css?_=1794575381363",
+        "method": "GET",
+        "type": "Stylesheet",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "error": "net::ERR_ABORTED",
+        "blockedReason": null,
+        "canceled": true,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.345",
+        "url": "https://pagead2.googlesyndication.com/pagead/show_ads.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "error": "net::ERR_ABORTED",
+        "blockedReason": null,
+        "canceled": true,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.346",
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/plain",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "error": "net::ERR_ABORTED",
+        "blockedReason": null,
+        "canceled": true,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.347",
+        "url": "https://www.googletagservices.com/tag/js/gpt.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "error": "net::ERR_ABORTED",
+        "blockedReason": null,
+        "canceled": true,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.348",
+        "url": "https://s.amazon-adsystem.com/aax2/apstag.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "error": "net::ERR_ABORTED",
+        "blockedReason": null,
+        "canceled": true,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.349",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.350",
+        "url": "https://z9snqc.fcportables.com/r/ads/ti39fdacc1c6.js?_=1794575381364",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.351",
+        "url": "https://z9snqc.fcportables.com/r/pagead/srcfc06f3e8f.js?_=1794575381364",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.352",
+        "url": "https://z9snqc.fcportables.com/r/adframe/mv9a5904efcf.js?_=1794575381365",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.353",
+        "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 63087
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/plain",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 1,
+        "bodyCaptured": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.354",
+        "url": "https://www.googletagservices.com/tag/js/gpt.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 63087
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "http/1.1",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 5162,
+        "bodyCaptured": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.355",
+        "url": "https://z9snqc.fcportables.com/r/50703f95/110d273b.gif?_=1794575381363",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1141,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/gif",
+        "protocol": "h2",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/gif",
+          "content-length": "42"
+        },
+        "finished": true,
+        "encodedDataLength": 353,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.356",
+        "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+        "method": "GET",
+        "type": "Script",
+        "frameId": "EB587582F17E03515B7C2332BFE4D042",
+        "documentURL": "about:blank",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "",
+              "line": 0,
+              "col": 378
+            }
+          ]
+        },
+        "redirects": [
+          "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59e02e31f0f6d88"
+        ],
+        "status": 200,
+        "mime": "application/javascript",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/javascript; charset=UTF-8",
+          "content-encoding": "zstd"
+        },
+        "finished": true,
+        "encodedDataLength": 16495,
+        "bodyCaptured": 41135
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.357",
+        "url": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+        "method": "POST",
+        "type": "XHR",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "send",
+              "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+              "line": 1,
+              "col": 80624
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/html",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/html; charset=UTF-8",
+          "content-encoding": "zstd"
+        },
+        "finished": true,
+        "encodedDataLength": 774,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.360",
+        "url": "data:image/webp;base64,[data: 79 chars]",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1141,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "data",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "headers": {},
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.361",
+        "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+        "method": "GET",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 60618
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.362",
+        "url": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+        "method": "POST",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "rd",
+              "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+              "line": 397,
+              "col": 361
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.363",
+        "url": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+        "method": "POST",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "rd",
+              "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+              "line": 397,
+              "col": 361
+            }
+          ]
+        },
+        "error": "net::ERR_BLOCKED_BY_CLIENT",
+        "blockedReason": "other",
+        "canceled": false,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.364",
+        "url": "https://z9snqc.fcportables.com/i/c9396caf/ca360afef1",
+        "method": "POST",
+        "type": "Fetch",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "aB",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 80462
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "application/json",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "application/json",
+          "content-encoding": "gzip"
+        },
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.365",
+        "url": "https://www.fcportables.com/wp-content/uploads/favicon.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1141,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "14006"
+        },
+        "finished": true,
+        "encodedDataLength": 14533,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.366",
+        "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+        "method": "POST",
+        "type": "XHR",
+        "frameId": "EB587582F17E03515B7C2332BFE4D042",
+        "documentURL": "about:blank",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "dm.<computed>",
+              "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+              "line": 0,
+              "col": 13304
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "text/plain",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "text/plain; charset=UTF-8",
+          "content-length": "0"
+        },
+        "finished": true,
+        "encodedDataLength": 763,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.369",
+        "url": "https://www.fcportables.com/wp-content/uploads/favicon.webp",
+        "method": "GET",
+        "type": "Other",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "other",
+          "url": null,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": false,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "14006"
+        },
+        "finished": true,
+        "encodedDataLength": 14501,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.370",
+        "url": "https://www.fcportables.com/wp-content/uploads/favicon.webp",
+        "method": "GET",
+        "type": "Other",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "other",
+          "url": null,
+          "stack": []
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": true,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "14006"
+        },
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.371",
+        "url": "https://www.fcportables.com/wp-content/uploads/fcportables-logo.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "collectInFrame",
+              "url": "",
+              "line": 201,
+              "col": 43
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": true,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "5782"
+        },
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.373",
+        "url": "https://www.fcportables.com/wp-content/uploads/snap_video_translator_portable.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "collectInFrame",
+              "url": "",
+              "line": 201,
+              "col": 43
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": true,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "30462"
+        },
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      },
+      {
+        "sid": "main",
+        "requestId": "13496.376",
+        "url": "https://www.fcportables.com/wp-content/uploads/donate-fcportables-350x175.webp",
+        "method": "GET",
+        "type": "Image",
+        "frameId": "F377A658E9C9A4DF865D0E168325EB88",
+        "documentURL": "https://www.fcportables.com/snap-video-translator-portable/",
+        "initiator": {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "collectInFrame",
+              "url": "",
+              "line": 201,
+              "col": 43
+            }
+          ]
+        },
+        "status": 200,
+        "mime": "image/webp",
+        "protocol": "h3",
+        "fromDiskCache": true,
+        "fromServiceWorker": false,
+        "remoteIp": "104.21.84.50",
+        "headers": {
+          "content-type": "image/webp",
+          "content-length": "10794"
+        },
+        "finished": true,
+        "encodedDataLength": 0,
+        "redirects": []
+      }
+    ],
+    "notes": []
+  }
+}

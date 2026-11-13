@@ -1,0 +1,18 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "BlogPosting",
+    "headline": "Portable Snap Video Translator 1.2.1 (Models Included)",
+    "description": "<strong>Snap Video Translator Portable</strong> brings every step of localizing a video into a single Windows app. Load a video and it takes you straight through transcription, AI translation, and either subtitle burn-in or an AI voice-over.",
+    "datePublished": "2026-11-12",
+    "dateModified": "2026-11-12",
+    "author": {
+        "@type": "Person",
+        "@id": "#person-fcportables",
+        "name": "fcportables"
+    },
+    "image": "https://www.fcportables.com/wp-content/uploads/snap_video_translator_portable.webp",
+    "publisher": {
+        "@id": "#organization"
+    },
+    "mainEntityOfPage": "https://www.fcportables.com/snap-video-translator-portable/"
+}

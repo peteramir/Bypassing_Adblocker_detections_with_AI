@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="popup.css">
+  <title>JS Forensic Collector</title>
+</head>
+<body>
+  <header>
+    <h1>JS Forensic Collector</h1>
+    <p id="domain" class="domain">Checking current tab…</p>
+  </header>
+
+  <main>
+    <div class="actions">
+      <button id="btnCurrent" class="primary" type="button">Collect Current Page</button>
+      <button id="btnReload" type="button">Reload &amp; Capture</button>
+    </div>
+
+    <label class="deep">
+      <input type="checkbox" id="deep">
+      <span>
+        <strong>Deep capture</strong>
+        <small>Uses the Chrome debugger for exact response bodies, eval'd code and loader stacks. Browser shows a “debugging” banner and asks for one extra permission.</small>
+      </span>
+    </label>
+
+    <p class="hint" id="modeHint">
+      <b>Collect Current Page</b> works on the page as it is now. Requests made before this extension started watching the tab can't be recovered.
+      <b>Reload &amp; Capture</b> reloads the tab (cache bypassed) while recording, so it sees the full load.
+    </p>
+
+    <section id="progress" hidden aria-live="polite">
+      <div class="phase" id="phase"></div>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"><div id="barFill"></div></div>
+    </section>
+
+    <dl class="stats">
+      <div><dt>Discovered</dt><dd id="sDisc">0</dd></div>
+      <div><dt>Downloaded</dt><dd id="sDown">0</dd></div>
+      <div><dt>Failed</dt><dd id="sFail" class="bad">0</dd></div>
+    </dl>
+    <p class="substats" id="subStats"></p>
+
+    <button id="btnExport" class="export" type="button" disabled>Export ZIP</button>
+    <p class="msg" id="msg" role="status"></p>
+
+    <details>
+      <summary>Permissions and limits</summary>
+      <ul>
+        <li><b>Access to all sites</b> (required): lets the extension inject its reader into the tab and its frames, re-request script files across origins, and watch request metadata. Request headers, cookies and bodies are not recorded.</li>
+        <li><b>webRequest</b> (required): observe-only. Records URL, type, status, content-type and errors for scripts and similar requests, in memory and session storage.</li>
+        <li><b>Debugger</b> (optional, Deep capture only): requested when you tick the box.</li>
+        <li>Nothing is uploaded. The ZIP is built in the browser and saved by you.</li>
+        <li>Not all sources are reachable: closed shadow roots, sandboxed frames, revoked blob: URLs and requests made before monitoring began are reported as limitations in the ZIP.</li>
+      </ul>
+    </details>
+  </main>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>

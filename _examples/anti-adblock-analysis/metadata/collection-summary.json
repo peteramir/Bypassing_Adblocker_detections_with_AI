@@ -1,0 +1,41 @@
+{
+  "zipName": "anti-adblock-analysis-www.fcportables.com-2026-11-13.zip",
+  "mode": "reload-and-capture",
+  "deepCapture": true,
+  "startedAt": "2026-11-13T13:09:32.320Z",
+  "finishedAt": "2026-11-13T13:10:18.779Z",
+  "durationMs": 46461,
+  "counts": {
+    "discoveredResources": 34,
+    "downloaded": 25,
+    "failed": 0,
+    "skippedNotJavaScriptOrNotReplayed": 9,
+    "firstPartyResources": 21,
+    "thirdPartyResources": 13,
+    "externalScriptElements": 17,
+    "inlineScripts": {
+      "executable": 13,
+      "module": 1,
+      "json": 6,
+      "importmap": 0,
+      "otherData": 0
+    },
+    "dynamicInlineScriptsObservedOnly": 4,
+    "runtimeGeneratedScriptsCaptured": 17,
+    "runtimeGeneratedScriptsSeen": 21,
+    "framesInspected": 6,
+    "serviceWorkerScripts": 0,
+    "dedicatedWorkerScripts": 0,
+    "sharedWorkerScripts": 0,
+    "webRequestRecordsForTab": 17
+  },
+  "totalDownloadedBytes": 1221958,
+  "permissionsUsed": {
+    "host": "http(s) pages (inject collector, fetch scripts, observe requests)",
+    "scripting": true,
+    "webRequest": "observe only",
+    "storage": "session (progress and request log only)",
+    "debugger": true
+  },
+  "errors": []
+}

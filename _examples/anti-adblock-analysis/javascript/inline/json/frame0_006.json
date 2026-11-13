@@ -1,0 +1,12 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Organization",
+    "@id": "#organization",
+    "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.fcportables.com/wp-content/uploads/fcportables-logo.webp"
+    },
+    "url": "https://www.fcportables.com/",
+    "name": "FC Portables",
+    "description": "Download Portable Software and ISO!"
+}

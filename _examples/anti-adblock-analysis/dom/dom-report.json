@@ -1,0 +1,563 @@
+{
+  "note": "Evidence elements are CANDIDATES selected by structure/wording. Do not assume each is responsible for detection.",
+  "frameSnapshots": [
+    {
+      "frameId": 0,
+      "file": "dom/page.html"
+    },
+    {
+      "frameId": 64,
+      "file": "dom/frames/frame-64_frame.html"
+    },
+    {
+      "frameId": 65,
+      "file": "dom/frames/frame-65_frame.html"
+    },
+    {
+      "frameId": 66,
+      "file": "dom/frames/frame-66_frame.html"
+    },
+    {
+      "frameId": 67,
+      "file": "dom/frames/frame-67_frame.html"
+    },
+    {
+      "frameId": 68,
+      "file": "dom/frames/frame-68_frame.html"
+    }
+  ],
+  "frames": [
+    {
+      "frameId": 0,
+      "url": "https://www.fcportables.com/snap-video-translator-portable/",
+      "isTop": true,
+      "title": "Portable Snap Video Translator 1.2.1 (Models Included) - FC Portables",
+      "readyState": "complete",
+      "viewport": {
+        "h": 869,
+        "w": 1920
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 828,
+        "perfEntries": 63
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "17651px",
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": "--publisher-menu-height: 42px; overflow: hidden !important;",
+            "tag": "html"
+          },
+          {
+            "classes": [
+              "wp-singular",
+              "post-template-default",
+              "single",
+              "single-post",
+              "postid-39101",
+              "single-format-standard",
+              "wp-theme-publisher",
+              "wp-child-theme-publisher-child",
+              "bs-theme",
+              "bs-publisher",
+              "bs-publisher-crypto-news",
+              "ltr",
+              "close-rh",
+              "page-layout-2-col",
+              "page-layout-2-col-right",
+              "boxed",
+              "active-sticky-sidebar",
+              "main-menu-out-full-width",
+              "single-prim-cat-13",
+              "single-cat-13",
+              "bs-ll-d"
+            ],
+            "filter": "none",
+            "height": "17651px",
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": "overflow: hidden !important;",
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [
+        {
+          "classes": [
+            "cak5m6gh"
+          ],
+          "id": "cak5m6gk",
+          "path": "c32e-cfc70#cak5m6gk",
+          "position": "static",
+          "tag": "c32e-cfc70",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4) > div:nth-child(2) > p:nth-child(28)",
+          "position": "static",
+          "tag": "p",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4) > div:nth-child(2)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2) > div:nth-child(4)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "entry-content",
+            "clearfix",
+            "single-post-content"
+          ],
+          "id": null,
+          "path": "article#post-39101 > div:nth-child(2)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "post-39101",
+            "post",
+            "type-post",
+            "status-publish",
+            "format-standard",
+            "category-video-software",
+            "tag-ai-software",
+            "single-post-content"
+          ],
+          "id": "post-39101",
+          "path": "article#post-39101",
+          "position": "static",
+          "tag": "article",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "single-container"
+          ],
+          "id": null,
+          "path": "main#content > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+          "position": "static",
+          "tag": "div",
+          "zIndex": "auto"
+        },
+        {
+          "classes": [
+            "col-sm-8",
+            "content-column"
+          ],
+          "id": null,
+          "path": "main#content > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)",
+          "position": "relative",
+          "tag": "div",
+          "zIndex": "auto"
+        }
+      ],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [
+        {
+          "allow": null,
+          "hasSrcdoc": false,
+          "id": "aswift_1",
+          "loading": null,
+          "name": "aswift_1",
+          "path": "iframe#aswift_1",
+          "rect": {
+            "h": 0,
+            "w": 0,
+            "x": 0,
+            "y": 0
+          },
+          "sameOriginAccessible": false,
+          "sandbox": null,
+          "src": null,
+          "srcdocLength": 0,
+          "title": null,
+          "visible": false
+        },
+        {
+          "allow": null,
+          "hasSrcdoc": false,
+          "id": "aswift_2",
+          "loading": null,
+          "name": "aswift_2",
+          "path": "iframe#aswift_2",
+          "rect": {
+            "h": 0,
+            "w": 0,
+            "x": 0,
+            "y": 0
+          },
+          "sameOriginAccessible": false,
+          "sandbox": null,
+          "src": null,
+          "srcdocLength": 0,
+          "title": null,
+          "visible": false
+        },
+        {
+          "allow": null,
+          "hasSrcdoc": false,
+          "id": "aswift_3",
+          "loading": null,
+          "name": "aswift_3",
+          "path": "iframe#aswift_3",
+          "rect": {
+            "h": 0,
+            "w": 0,
+            "x": 0,
+            "y": 0
+          },
+          "sameOriginAccessible": false,
+          "sandbox": null,
+          "src": null,
+          "srcdocLength": 0,
+          "title": null,
+          "visible": false
+        },
+        {
+          "allow": null,
+          "hasSrcdoc": false,
+          "id": null,
+          "loading": null,
+          "name": null,
+          "path": "html > body:nth-child(2) > iframe:nth-child(22)",
+          "rect": {
+            "h": 1,
+            "w": 1,
+            "x": 0,
+            "y": -2925
+          },
+          "sameOriginAccessible": true,
+          "sandbox": null,
+          "src": null,
+          "srcdocLength": 0,
+          "title": null,
+          "visible": false
+        },
+        {
+          "allow": null,
+          "hasSrcdoc": false,
+          "id": null,
+          "loading": null,
+          "name": null,
+          "path": "html > iframe:nth-child(3)",
+          "rect": {
+            "h": 0,
+            "w": 0,
+            "x": 0,
+            "y": 0
+          },
+          "sameOriginAccessible": true,
+          "sandbox": null,
+          "src": null,
+          "srcdocLength": 0,
+          "title": null,
+          "visible": false
+        }
+      ],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    },
+    {
+      "frameId": 64,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "title": "",
+      "readyState": "complete",
+      "viewport": {
+        "h": 0,
+        "w": 0
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 4,
+        "perfEntries": 0
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    },
+    {
+      "frameId": 65,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "title": "",
+      "readyState": "complete",
+      "viewport": {
+        "h": 0,
+        "w": 0
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 4,
+        "perfEntries": 0
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    },
+    {
+      "frameId": 66,
+      "url": "data:text/html;charset=utf-8;base64,[data: 152 chars]",
+      "isTop": false,
+      "title": "",
+      "readyState": "complete",
+      "viewport": {
+        "h": 0,
+        "w": 0
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 4,
+        "perfEntries": 0
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    },
+    {
+      "frameId": 67,
+      "url": "about:blank",
+      "isTop": false,
+      "title": "",
+      "readyState": "complete",
+      "viewport": {
+        "h": 0,
+        "w": 0
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 17,
+        "perfEntries": 0
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "auto",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "auto",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    },
+    {
+      "frameId": 68,
+      "url": "about:blank",
+      "isTop": false,
+      "title": "",
+      "readyState": "complete",
+      "viewport": {
+        "h": 1,
+        "w": 1
+      },
+      "counts": {
+        "dialogElements": 0,
+        "elements": 19,
+        "perfEntries": 2
+      },
+      "bodyState": {
+        "ariaHiddenBodyChildren": 0,
+        "inertCount": 0,
+        "nodes": [
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "8px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "html"
+          },
+          {
+            "classes": [],
+            "filter": "none",
+            "height": "0px",
+            "overflow": "visible",
+            "overflowY": "visible",
+            "pointerEvents": "auto",
+            "position": "static",
+            "styleAttr": null,
+            "tag": "body"
+          }
+        ]
+      },
+      "elementsAtViewportCentreTopToBottom": [],
+      "overlayCandidates": [],
+      "adblockWordingMatches": [],
+      "evidence": [],
+      "iframes": [],
+      "openShadowRoots": [],
+      "inlineEventHandlers": [],
+      "javascriptUrlAttributeCount": 0,
+      "htmlTruncated": false,
+      "notes": []
+    }
+  ]
+}

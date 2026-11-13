@@ -1,0 +1,2697 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0001_z9snqc.fcportables.com_main.fb71facc6f58dac3.min_e68b45e7.js",
+      "sha256": "e68b45e75f3262c50dcc2f203b9f11068dcaf683b2a986163632b9687e931b36",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 105834,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=utf-8"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": true,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": "anonymous",
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "antiadblock-core-js",
+        "domPath": "script#antiadblock-core-js",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 4331,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+        "nextHopProtocol": "",
+        "responseStatus": 200,
+        "startTime": 1950,
+        "transferSize": 0
+      },
+      "observedRequests": [
+        {
+          "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript; charset=utf-8",
+          "contentLength": null,
+          "contentEncoding": "gzip",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575377300,
+          "endedAtEpochMs": 1794575378893,
+          "durationMs": 1593,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 100,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 2,
+      "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0002_www.fcportables.com_jquery.min_cb6f2d32.js",
+      "sha256": "cb6f2d32c49d1c2b25e9ffc9aaafa3f83075346c01bcd4ae6eb187392a4292cf",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 87553,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "jquery-core-js",
+        "domPath": "script#jquery-core-js",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 87553,
+        "duration": 1929,
+        "encodedBodySize": 32163,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 1950,
+        "transferSize": 32463
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575374599,
+          "endedAtEpochMs": 1794575376492,
+          "durationMs": 1893,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 101,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 3,
+      "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0003_www.fcportables.com_jquery-migrate.min_5274f11e.js",
+      "sha256": "5274f11e6fb32ae0cf2dfb9f8043272865c397a7c4223b4cfa7d50ea52fbde89",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 13577,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "jquery-migrate-js",
+        "domPath": "script#jquery-migrate-js",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 13577,
+        "duration": 1180,
+        "encodedBodySize": 5119,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 1950,
+        "transferSize": 5419
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575374599,
+          "endedAtEpochMs": 1794575375743,
+          "durationMs": 1144,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 102,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 4,
+      "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0004_www.fcportables.com_39ad1af3_394633e0.js",
+      "sha256": "394633e0dd7cd0e8c733bf26d270130d1926ca8460da1dd8cfde36f8258d8a90",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 538349,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "caos-gtag-js",
+        "domPath": "script#caos-gtag-js",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 538349,
+        "duration": 2655,
+        "encodedBodySize": 179496,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 1950,
+        "transferSize": 179796
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/uploads/caos/39ad1af3.js?id=G-373R2JXPHP",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575374600,
+          "endedAtEpochMs": 1794575377218,
+          "durationMs": 2618,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 103,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 5,
+      "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0005_pagead2.googlesyndication.com_adsbygoogle_89a6ada6.js",
+      "sha256": "89a6ada664c308c37ad90d5eea2a4d999236699f8963c4463ce508f1283120a7",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 4217,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": true,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": "anonymous",
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": null,
+        "domPath": "html > head:nth-child(1) > script:nth-child(99)",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2736,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4421365766608154",
+        "nextHopProtocol": "",
+        "responseStatus": 200,
+        "startTime": 1951,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 220,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 6,
+      "url": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0006_www.fcportables.com_wp-emoji-release.min_063840b4.js",
+      "sha256": "063840b4b3f5869e0f0d078bab8bd29cfb3a59ee85e8e3edbbec35a8fe846fd3",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 22752,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": true,
+        "defer": true,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": null,
+        "domPath": "html > head:nth-child(1) > script:nth-child(102)",
+        "inHead": true,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 22752,
+        "duration": 3903,
+        "encodedBodySize": 5591,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 8735,
+        "transferSize": 5891
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-includes/js/wp-emoji-release.min.js?ver=7.1.4",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575381349,
+          "endedAtEpochMs": 1794575385251,
+          "durationMs": 3902,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 7,
+      "url": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0007_www.fcportables.com_better-post-views.min_a45d4286.js",
+      "sha256": "a45d4286c79864158a9c7f5d543c21ebd53726ea5fa1fd984622db2f74a91798",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 336,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "better-post-views-cache-js",
+        "domPath": "script#better-post-views-cache-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 336,
+        "duration": 1297,
+        "encodedBodySize": 209,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2102,
+        "transferSize": 509
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/plugins/better-post-views/js/better-post-views.min.js?ver=1.6.0",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "zstd",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575375611,
+          "endedAtEpochMs": 1794575376011,
+          "durationMs": 400,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 988,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 8,
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0008_www.fcportables.com_bs-ajax-pagination.min_f11d54dd.js",
+      "sha256": "f11d54dddc73d809715f0b2e3bc6cbb0b6ad52fdcd784b54708821e0e62b31a9",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 11080,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "publisher-theme-pagination-js",
+        "domPath": "script#publisher-theme-pagination-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 11080,
+        "duration": 2508,
+        "encodedBodySize": 3776,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2102,
+        "transferSize": 4076
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/bs-theme-core/listing-pagin/assets/js/bs-ajax-pagination.min.js?ver=1794413264",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575376013,
+          "endedAtEpochMs": 1794575377223,
+          "durationMs": 1210,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 993,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 9,
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0009_www.fcportables.com_slick.min_05c8453e.js",
+      "sha256": "05c8453ef5c4db83686dde6d5efd93af9751a56d94e761c8f849989e67065e02",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 44235,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "bf-slick-js",
+        "domPath": "script#bf-slick-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 44235,
+        "duration": 2557,
+        "encodedBodySize": 11325,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2102,
+        "transferSize": 11625
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/slick.min.js?ver=1794413264",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575376507,
+          "endedAtEpochMs": 1794575377272,
+          "durationMs": 765,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 994,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 10,
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0010_www.fcportables.com_element-query.min_092fdebe.js",
+      "sha256": "092fdebe9f307e967429648b19de6244fd57f38b3b0c0d751a42669f41f2ded8",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 2484,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "element-query-js",
+        "domPath": "script#element-query-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 2484,
+        "duration": 3395,
+        "encodedBodySize": 1213,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2102,
+        "transferSize": 1513
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/includes/libs/better-framework/assets/js/element-query.min.js?ver=1794413264",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575377224,
+          "endedAtEpochMs": 1794575378109,
+          "durationMs": 885,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 995,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 11,
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0011_www.fcportables.com_theme-libs.min_a2084e37.js",
+      "sha256": "a2084e373a9091ddf7ca22a0ed52e04be90ce4f4c2c49f85e844e89e1b74ddbc",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 131439,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "theme-libs-js",
+        "domPath": "script#theme-libs-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 131439,
+        "duration": 6535,
+        "encodedBodySize": 43472,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2102,
+        "transferSize": 43772
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme-libs.min.js?ver=1794413264",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575377298,
+          "endedAtEpochMs": 1794575381250,
+          "durationMs": 3952,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 996,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 12,
+      "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0012_www.fcportables.com_theme.min_a02bab0f.js",
+      "sha256": "a02bab0fab2856274fa8a649a31c8d60061ae7faed31440ea610a38ac94eb474",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 42933,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": "publisher-js",
+        "domPath": "script#publisher-js",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 42933,
+        "duration": 3510,
+        "encodedBodySize": 13561,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 2103,
+        "transferSize": 13861
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-content/themes/publisher/js/theme.min.js?ver=1794413264",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript",
+          "contentLength": null,
+          "contentEncoding": "br",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575377299,
+          "endedAtEpochMs": 1794575378224,
+          "durationMs": 925,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1002,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 13,
+      "url": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0013_static.cloudflareinsights.com_vce701823e78c4301a35b7e07294d87301792088814092_63738125.js",
+      "sha256": "637381256384554e1cc3309a62fb238a51b83e7f10b2a56d8ba15dbc73ca762e",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 31853,
+      "httpStatus": 200,
+      "contentType": "text/javascript;charset=UTF-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "text/javascript;charset=UTF-8",
+        "content-encoding": "gzip",
+        "cache-control": "public, max-age=86400",
+        "last-modified": "Thu, 15 Oct 2026 18:26:54 GMT",
+        "etag": "W/\"2026.10.1\""
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": "module",
+        "async": false,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": "anonymous",
+        "integrity": "sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==",
+        "referrerPolicy": null,
+        "id": null,
+        "domPath": "html > body:nth-child(2) > script:nth-child(20)",
+        "inHead": false,
+        "frameId": 0
+      },
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 2178,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "parser",
+          "url": "https://www.fcportables.com/snap-video-translator-portable/",
+          "line": 1134,
+          "stack": []
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 14,
+      "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:link"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 27640,
+        "duration": 270,
+        "encodedBodySize": 2015,
+        "initiatorType": "link",
+        "name": "https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,700%7CRoboto+Condensed:400,700&display=swap",
+        "nextHopProtocol": "h3",
+        "responseStatus": 0,
+        "startTime": 1950,
+        "transferSize": 2315
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 15,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+      "urlWasRedacted": true,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:fetch"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 4675,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 16,
+      "url": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+      "urlWasRedacted": true,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:fetch"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AAAAAGQ&cid=1147486442.1794533211&ec_mode=a&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=1&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=page_view&_ee=1&tfd=4675",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 4694,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 17,
+      "url": "https://www.gstatic.com/generate_204",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "webRequest:xmlhttprequest"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 57,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://www.gstatic.com/generate_204",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8751,
+        "transferSize": 0
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.gstatic.com/generate_204",
+          "method": "GET",
+          "type": "xmlhttprequest",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 204,
+          "contentType": null,
+          "contentLength": 0,
+          "contentEncoding": null,
+          "fromCache": false,
+          "serverIp": "142.251.152.120",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575381364,
+          "endedAtEpochMs": 1794575381420,
+          "durationMs": 56,
+          "party": "third-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 18,
+      "url": "https://z9snqc.fcportables.com/r/f70f25ab/uo79c95b19.js?_=1794575381362",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0018_z9snqc.fcportables.com_uo79c95b19_a4fc5d29.js",
+      "sha256": "a4fc5d29c1019b96da11340c5b67493203724afc57be77865d63fff532355e48",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 24,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-length": "24",
+        "cache-control": "public, max-age=14400, s-maxage=3600, stale-while-revalidate=86400",
+        "last-modified": "Fri, 13 Nov 2026 13:10:13 GMT"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://z9snqc.fcportables.com/r/f70f25ab/uo79c95b19.js?_=1794575381362",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8752,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 19,
+      "url": "https://pagead2.googlesyndication.com/pagead/show_ads.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "debugger:Network (Fetch)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0019_pagead2.googlesyndication.com_show_ads_1b281a32.js",
+      "sha256": "1b281a32dcaa1b665565e9ac23ae0164e09e0226e250f9e7f72c6914e705df30",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 34118,
+      "httpStatus": 200,
+      "contentType": "text/javascript; charset=UTF-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "text/javascript; charset=UTF-8",
+        "content-length": "13665",
+        "content-encoding": "br",
+        "cache-control": "private, max-age=3600",
+        "etag": "7387387036366124457",
+        "x-content-type-options": "nosniff"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://pagead2.googlesyndication.com/pagead/show_ads.js",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8752,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 20,
+      "url": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "debugger:Network (Fetch)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0020_securepubads.g.doubleclick.net_gpt_e3b0c442.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sameContentAsResourceIds": [
+        21
+      ],
+      "sizeBytes": 0,
+      "httpStatus": 200,
+      "contentType": "text/plain",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "text/plain"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://securepubads.g.doubleclick.net/tag/js/gpt.js",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8752,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 63087
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 21,
+      "url": "https://www.googletagservices.com/tag/js/gpt.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "debugger:Network (Fetch)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0021_www.googletagservices.com_gpt_e3b0c442.js",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "sameContentAsResourceIds": [
+        20
+      ],
+      "sizeBytes": 0,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://www.googletagservices.com/tag/js/gpt.js",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8752,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 63087
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 22,
+      "url": "https://s.amazon-adsystem.com/aax2/apstag.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "debugger:Network (Fetch)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0022_s.amazon-adsystem.com_apstag_dc51b8c9.js",
+      "sha256": "dc51b8c96c2d745df3bd5590d990230a482fd247123599548e0632fdbf97fc22",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 3,
+      "httpStatus": 200,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-length": "3"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 3,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://s.amazon-adsystem.com/aax2/apstag.js",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8752,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 23,
+      "url": "https://www.googleadservices.com/pagead/conversion_async.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:fetch",
+        "debugger:Network (Fetch)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/third-party/0023_www.googleadservices.com_conversion_async_345d57ae.js",
+      "sha256": "345d57ae23c7e194c81ee9a0a2f973963f07469ad47c2a3f3e8bdf6c2bec61f7",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 66146,
+      "httpStatus": 200,
+      "contentType": "text/javascript; charset=UTF-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "text/javascript; charset=UTF-8",
+        "content-length": "23260",
+        "content-encoding": "br",
+        "cache-control": "private, max-age=3600",
+        "etag": "6609190394128457733",
+        "x-content-type-options": "nosniff"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://www.googleadservices.com/pagead/conversion_async.js",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8753,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 61641
+            }
+          ]
+        },
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "https://z9snqc.fcportables.com/4245c2/4b7ea0/main.fb71facc6f58dac3.min.js",
+              "line": 0,
+              "col": 60618
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 24,
+      "url": "https://z9snqc.fcportables.com/r/ads/ti39fdacc1c6.js?_=1794575381364",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0024_z9snqc.fcportables.com_ti39fdacc1c6_b274228f.js",
+      "sha256": "b274228feef7e6fb8feb9d4417182334713552f10430bee2540567da35fd9155",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 26,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-length": "26",
+        "cache-control": "public, max-age=14400, s-maxage=3600, stale-while-revalidate=86400",
+        "last-modified": "Fri, 13 Nov 2026 13:10:14 GMT"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://z9snqc.fcportables.com/r/ads/ti39fdacc1c6.js?_=1794575381364",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8753,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 25,
+      "url": "https://z9snqc.fcportables.com/r/pagead/srcfc06f3e8f.js?_=1794575381364",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0025_z9snqc.fcportables.com_srcfc06f3e8f_db660492.js",
+      "sha256": "db66049292920eeb340b1d5627c66d46b59c8ccfc25461e0c722fc72c9a393b5",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 26,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-length": "26",
+        "cache-control": "public, max-age=14400, s-maxage=3600, stale-while-revalidate=86400",
+        "last-modified": "Fri, 13 Nov 2026 13:10:14 GMT"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://z9snqc.fcportables.com/r/pagead/srcfc06f3e8f.js?_=1794575381364",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8753,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 26,
+      "url": "https://z9snqc.fcportables.com/r/adframe/mv9a5904efcf.js?_=1794575381365",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "resource-timing:script",
+        "hook:mutation-observer (script src)",
+        "debugger:Network (Script)"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0026_z9snqc.fcportables.com_mv9a5904efcf_9238f5b0.js",
+      "sha256": "9238f5b092639f288c03a95de5ddb0ef55ba5dca2e367fe6c48d0a3adac7e8f3",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 26,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=utf-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-length": "26",
+        "cache-control": "public, max-age=14400, s-maxage=3600, stale-while-revalidate=86400",
+        "last-modified": "Fri, 13 Nov 2026 13:10:13 GMT"
+      },
+      "retrievalMethod": "extension-fetch",
+      "attempts": [
+        {
+          "method": "extension-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 2,
+        "encodedBodySize": 0,
+        "initiatorType": "script",
+        "name": "https://z9snqc.fcportables.com/r/adframe/mv9a5904efcf.js?_=1794575381365",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 8753,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "proto.<computed>",
+              "url": "chrome-extension://ghjeooffeicinmebaipbeolbccpadcmm/content/hook.js",
+              "line": 48,
+              "col": 138
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 27,
+      "url": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:xmlhttprequest",
+        "webRequest:xmlhttprequest"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Original request method was not GET (POST); not replayed to avoid side effects.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 100,
+        "duration": 1539,
+        "encodedBodySize": 100,
+        "initiatorType": "xmlhttprequest",
+        "name": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 8792,
+        "transferSize": 400
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/wp-admin/admin-ajax.php",
+          "method": "POST",
+          "type": "xmlhttprequest",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "text/html; charset=UTF-8",
+          "contentLength": null,
+          "contentEncoding": "zstd",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575381405,
+          "endedAtEpochMs": 1794575382944,
+          "durationMs": 1539,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 28,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+      "urlWasRedacted": true,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:fetch"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://analytics.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=2&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 9694,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 29,
+      "url": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+      "urlWasRedacted": true,
+      "kind": "script",
+      "party": "third-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:fetch"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Not fetched: discovered as fetch/XHR/other without an observed JavaScript content-type. Not replayed (avoids side effects and unrelated downloads). Reload & Capture or Deep capture can record exact bodies.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 1,
+        "encodedBodySize": 0,
+        "initiatorType": "fetch",
+        "name": "https://www.google.com/g/collect?v=2&tid=G-373R2JXPHP&gtm=[REDACTED]&_p=1794575377252&gcd=13l3l3l3l9l1&npa=1&dma=0&ecid=1110982655&_eu=AEAAAGQ&ae=a&cid=1147486442.1794533211&frm=0&pscdl=noapi&rcb=6&sr=2560x1440&uaa=x86&uab=64&uafvl=[REDACTED]&uam=&uamb=0&uap=Windows&uapv=10.0.0&uaw=0&ul=en&gaf=3&_s=2&tag_exp=[REDACTED]&sid=1794575270&sct=2&seg=1&dl=[REDACTED]&dr=[REDACTED]&dt=Portable%20Snap%20Video%20Translator%201.2.1%20(Models%20Included)%20-%20FC%20Portables&_tu=QAg&en=scroll&epn.percent_scrolled=90&tfd=9693",
+        "nextHopProtocol": "",
+        "responseStatus": 0,
+        "startTime": 9695,
+        "transferSize": 0
+      },
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 30,
+      "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "script-element",
+        "resource-timing:script",
+        "webRequest:script",
+        "debugger:Network (Script)",
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [
+        68,
+        0
+      ],
+      "state": "downloaded",
+      "file": "javascript/first-party/0030_www.fcportables.com_main_2661cef7.js",
+      "sha256": "2661cef7e3480a644732fd116460681b894fee0534a47f282dcbeb2ea061b8a3",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 41135,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "content-type": "application/javascript; charset=UTF-8"
+      },
+      "retrievalMethod": "debugger-network-body",
+      "attempts": [
+        {
+          "method": "debugger-network-body",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": {
+        "type": null,
+        "async": true,
+        "defer": false,
+        "noModule": false,
+        "crossOrigin": null,
+        "integrity": null,
+        "referrerPolicy": null,
+        "id": null,
+        "domPath": "html > head:nth-child(1) > script:nth-child(12)",
+        "inHead": true,
+        "frameId": 68
+      },
+      "resourceTiming": {
+        "decodedBodySize": 41135,
+        "duration": 7834,
+        "encodedBodySize": 16226,
+        "initiatorType": "script",
+        "name": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 107,
+        "transferSize": 16526
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59e02e31f0f6d88",
+          "method": "GET",
+          "type": "script",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/javascript; charset=UTF-8",
+          "contentLength": null,
+          "contentEncoding": "zstd",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59e02e31f0f6d88",
+          "finalUrl": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59e02e31f0f6d88",
+          "error": null,
+          "startedAtEpochMs": 1794575381370,
+          "endedAtEpochMs": 1794575389201,
+          "durationMs": 7831,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [
+        {
+          "type": "script",
+          "url": null,
+          "stack": [
+            {
+              "fn": "",
+              "url": "",
+              "line": 0,
+              "col": 378
+            }
+          ]
+        }
+      ],
+      "blob": null
+    },
+    {
+      "id": 31,
+      "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "resource-timing:xmlhttprequest",
+        "webRequest:xmlhttprequest"
+      ],
+      "frameIds": [
+        68,
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Original request method was not GET (POST); not replayed to avoid side effects.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": {
+        "decodedBodySize": 0,
+        "duration": 778,
+        "encodedBodySize": 0,
+        "initiatorType": "xmlhttprequest",
+        "name": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+        "nextHopProtocol": "h3",
+        "responseStatus": 200,
+        "startTime": 8057,
+        "transferSize": 300
+      },
+      "observedRequests": [
+        {
+          "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/7c7fee70a876/0.3636464747208913:1794572134:hASczYAMJhC6gDAQRS6S62X8e-Mi_CkazTFeQmJtEnw/a59e02e31f0f6d88",
+          "method": "POST",
+          "type": "xmlhttprequest",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "text/plain; charset=UTF-8",
+          "contentLength": 0,
+          "contentEncoding": null,
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575389320,
+          "endedAtEpochMs": 1794575390097,
+          "durationMs": 777,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 32,
+      "url": "https://z9snqc.fcportables.com/i/c9396caf/ca360afef1",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": false,
+      "treatedAsDefinitelyScript": false,
+      "javascriptContentTypeObserved": false,
+      "discoveredVia": [
+        "webRequest:xmlhttprequest"
+      ],
+      "frameIds": [
+        0
+      ],
+      "state": "skipped",
+      "file": null,
+      "sha256": null,
+      "sameContentAsResourceIds": [],
+      "sizeBytes": null,
+      "httpStatus": null,
+      "contentType": null,
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": null,
+      "retrievalMethod": null,
+      "attempts": [],
+      "failure": null,
+      "skippedReason": "Original request method was not GET (POST); not replayed to avoid side effects.",
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": null,
+      "observedRequests": [
+        {
+          "url": "https://z9snqc.fcportables.com/i/c9396caf/ca360afef1",
+          "method": "POST",
+          "type": "xmlhttprequest",
+          "frameId": 0,
+          "initiatorOrigin": "https://www.fcportables.com",
+          "requestWithoutTab": false,
+          "httpStatus": 200,
+          "contentType": "application/json",
+          "contentLength": null,
+          "contentEncoding": "gzip",
+          "fromCache": false,
+          "serverIp": "104.21.84.50",
+          "redirectedTo": null,
+          "finalUrl": null,
+          "error": null,
+          "startedAtEpochMs": 1794575386366,
+          "endedAtEpochMs": 1794575386815,
+          "durationMs": 449,
+          "party": "first-party"
+        }
+      ],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 33,
+      "url": "https://www.fcportables.com/wp-includes/js/wp-emoji-loader.min.js",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [],
+      "state": "downloaded",
+      "file": "javascript/first-party/0033_www.fcportables.com_wp-emoji-loader.min_2312e2af.js",
+      "sha256": "2312e2af7de8ecba77b54d69322e66882c55e28d0bf538a2059cf804280bef8c",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 2977,
+      "httpStatus": 200,
+      "contentType": "application/javascript",
+      "finalUrl": null,
+      "redirected": false,
+      "responseHeaders": {
+        "cache-control": "max-age=14400",
+        "content-encoding": "br",
+        "content-type": "application/javascript",
+        "etag": "\"6a74e66d-ba1\"",
+        "last-modified": "Thu, 06 Aug 2026 19:54:21 GMT"
+      },
+      "retrievalMethod": "page-context-fetch",
+      "attempts": [
+        {
+          "method": "page-context-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": null,
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    },
+    {
+      "id": 34,
+      "url": "https://www.fcportables.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a59a2f51f8ba4be8",
+      "urlWasRedacted": false,
+      "kind": "script",
+      "party": "first-party",
+      "sameOriginAsPage": true,
+      "treatedAsDefinitelyScript": true,
+      "javascriptContentTypeObserved": true,
+      "discoveredVia": [
+        "debugger:Debugger.scriptParsed"
+      ],
+      "frameIds": [],
+      "state": "downloaded",
+      "file": "javascript/first-party/0034_www.fcportables.com_main_bab2b93e.js",
+      "sha256": "bab2b93e3ef5502686ac3e5937f355041ebcd59d2d322c0bf25537084539bf68",
+      "sameContentAsResourceIds": [],
+      "sizeBytes": 40835,
+      "httpStatus": 200,
+      "contentType": "application/javascript; charset=UTF-8",
+      "finalUrl": "https://www.fcportables.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/7c7fee70a876/main.js?ray=a59a2f51f8ba4be8",
+      "redirected": true,
+      "responseHeaders": {
+        "cache-control": "private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+        "content-encoding": "zstd",
+        "content-type": "application/javascript; charset=UTF-8",
+        "x-content-type-options": "nosniff"
+      },
+      "retrievalMethod": "page-context-fetch",
+      "attempts": [
+        {
+          "method": "page-context-fetch",
+          "ok": true,
+          "httpStatus": 200,
+          "error": null
+        }
+      ],
+      "failure": null,
+      "skippedReason": null,
+      "warnings": [],
+      "scriptElement": null,
+      "resourceTiming": null,
+      "observedRequests": [],
+      "observedNetworkError": null,
+      "initiators": [],
+      "blob": null
+    }
+  ]
+}
